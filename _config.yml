@@ -1,0 +1,12 @@
+# Site settings
+title: IOT Wizards
+email: eric@thedevmonk@gmail.com
+description: "IOT Wizards" 
+baseurl: ""
+url: "https://www.iot-wizards.com"
+
+twitter_username: DevmonkZA
+github_username: wizard-of-things
+
+# Build settings
+markdown: kramdown
